@@ -12,8 +12,8 @@ var source = {
         port: 3306,
         host: 'l3855uft9zao23e2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
         user: 'tdhmrn6me2l5230w',
-        password: 'wryeypxggzz336q5 ',
-        database: 'burgers_db'
+        password: 'wryeypxggzz336q5',
+        database: 'aemqtep6vfn04h7l'
     }
 }
 
